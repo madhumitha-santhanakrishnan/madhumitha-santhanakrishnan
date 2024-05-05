@@ -1,4 +1,4 @@
-# Hi there, I'm Madhu!  <img src="src/wave.gif" width="30px">
+<h1 align="center"> Hi there, I'm Madhu!  <img src="src/wave.gif" width="30px"> </h1>
 
 <!--
 **madhumitha-santhanakrishnan/madhumitha-santhanakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
